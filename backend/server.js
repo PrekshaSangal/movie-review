@@ -14,7 +14,7 @@ const port = process.env.PORT || 5000;
 const app = express();
 app.use(
   cors({
-    origin: "https://movie-review-server-sepia.vercel.app/",
+    origin: "*",
   })
 );
 app.use(express.json());
