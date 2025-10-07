@@ -4,12 +4,12 @@ A full-stack web application that allows users to **discover, review, and rate m
 The platform is designed for both casual viewers and film enthusiasts, offering detailed reviews, community discussions, and personalized recommendations.
 
 ---
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/f20b5e72-7ad8-413c-a320-4f092066261e" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/f20b5e72-7ad8-413c-a320-4f092066261e" />
 
 **Login Page** – Secure user authentication with JWT-based login.
 
 
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/d7c832c5-7a96-46e4-9cc9-1362fc5b5b5b" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/d7c832c5-7a96-46e4-9cc9-1362fc5b5b5b" />
 
 **Signup Page** – New users can create an account via email or social logins.
 
@@ -53,5 +53,5 @@ This system integrates **secure authentication (JWT)**, **RESTful APIs**, and a 
 ---
 
 ## ⚙️ Architecture Overview
-<img width="733" height="593" alt="image" src="https://github.com/user-attachments/assets/b86509ee-5cae-4a4a-9703-8389242adcca" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/b86509ee-5cae-4a4a-9703-8389242adcca" />
 
