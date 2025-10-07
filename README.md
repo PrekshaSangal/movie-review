@@ -5,18 +5,22 @@ The platform is designed for both casual viewers and film enthusiasts, offering 
 
 ---
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f20b5e72-7ad8-413c-a320-4f092066261e" />
+
 **Login Page** – Secure user authentication with JWT-based login.
 
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d7c832c5-7a96-46e4-9cc9-1362fc5b5b5b" />
-**Signup Page**– New users can create an account via email or social logins.
+
+**Signup Page** – New users can create an account via email or social logins.
 
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/27df9ea0-6d8e-4932-b368-61449af12b33" />
+
 **Homepage** – Browse trending movies and personalized suggestions.
 
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/95831ccc-7af1-47f1-9f74-6fcc509e38af" />
+
 Registered users can share their opinions and experiences about movies.  
 The review system supports **adding, editing, and moderating reviews** for quality and relevance.
 
